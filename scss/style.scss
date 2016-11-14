@@ -100,6 +100,8 @@ header {
 	min-height: 530px;
 	&.top {
 		background: url('./images/top/bg.png') no-repeat;
+		background-size: cover;
+		background-position: bottom;
 		.p-img {
 			padding: 136px 0 50px 0;
 		}
